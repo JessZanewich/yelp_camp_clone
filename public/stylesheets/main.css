@@ -13,3 +13,24 @@
 #delete-form {
   display: inline;
 }
+
+.form-header {
+  text-align: center;
+}
+
+.form-style {
+  width: 30%; 
+  margin: 40px auto;
+}
+
+/*#full-page {*/
+/*  background: url(https://images.unsplash.com/photo-1455763916899-e8b50eca9967?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=462846a9d021100acba3cbf7a293ad7f) no-repeat center center fixed;*/
+/*  background-size: cover;*/
+/*  min-height: 100%;*/
+/*}*/
+
+/*body {*/
+/*  background: url(https://images.unsplash.com/photo-1460458248189-2cb101df4e67?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=8b6519b7847ba2d8fb662c6a27661f65);*/
+/*  background-size: cover;*/
+  /*background-position: center;*/
+/*}*/
